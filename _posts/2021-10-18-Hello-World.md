@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Hello World"
 date: 2021-10-18 12:12:12 -0000
 categories: CATEGORY-1 CATEGORY-2
 ---
