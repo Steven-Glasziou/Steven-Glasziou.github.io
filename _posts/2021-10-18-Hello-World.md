@@ -1,5 +1,7 @@
 ---
+layout: post
 title: First Post
+Author: Testing Testingson
 ---
 
 # "Hello World"
