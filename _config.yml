@@ -1,9 +1,8 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+title: Adventures in Automation
+description: Presented by Steven Glaziou
 show_downloads: true
 
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+url: "https://blog.glasziou.com//" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
@@ -16,10 +15,10 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: lorepirri
+author: Steven Glasziou
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: SGlasziou
 
 plugins:
   - jekyll-target-blank
