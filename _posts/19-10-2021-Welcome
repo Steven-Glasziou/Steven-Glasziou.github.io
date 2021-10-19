@@ -1,0 +1,5 @@
+Welcome to the blog
+
+```powershell
+Get-Content -LiteralPath "the internet"
+```
