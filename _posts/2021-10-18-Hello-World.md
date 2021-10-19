@@ -1,8 +1,3 @@
----
-title: My First Blog Post
----
-
-
 # "Hello World"
 
-Wow much empty
+Wow much empty. Soon To be a post
