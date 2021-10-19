@@ -1,10 +1,12 @@
 title: Adventures in Automation
 description: Presented by Steven Glasziou
 
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 
 url: https://blog.glasziou.com/
 
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-remote-theme 
+  
